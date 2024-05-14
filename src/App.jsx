@@ -1,12 +1,13 @@
 
 import './App.css'
+import Generate from './Components/Generate/Generate'
 
 function App() {
 
 
   return (
     <>
-      <h1>hello</h1>
+      <Generate></Generate>
     </>
   )
 }
